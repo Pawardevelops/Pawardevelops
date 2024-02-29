@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm pawarSachin</h1>
+<h1 align="center">Hi 👋, I'm PawarSachin</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
 - 🔭 I’m currently working at **aiRender**
